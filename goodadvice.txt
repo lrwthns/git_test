@@ -1,0 +1,5 @@
+Any advice for an aspiring front end web developer?
+
+Never stop learning. Web development (both front and back) changes quickly, arguably faster than almost any other development genre.
+Have side projects. Especially ones that cover ground outside of work. It’s one of the best ways to really challenge yourself, and keep growing.
+Be open to change. You might think you know what area of web development you want to go into, but you’ll definitely discover new interests along the way. Come to web projects open minded, willing to tackle any challenge (QA to database work to production design). You’ll form your strengths and specializations later in your career.
